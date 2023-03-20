@@ -1,4 +1,4 @@
-def ci_download(input)
+def download(input)
 {
   git 'https://github.com/Abhishek-Kalwaghe/${input}'
 }
