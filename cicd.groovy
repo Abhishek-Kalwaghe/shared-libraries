@@ -1,4 +1,4 @@
-def download(input)
+def download(var_1)
 {
-  git "https://github.com/Abhishek-Kalwaghe/${input}"
+  git "https://github.com/Abhishek-Kalwaghe/${var_1}"
 }
